@@ -1,0 +1,5 @@
+enable-drop: true
+allowed-drop-gamemode:
+  - adventure
+  - survival
+chance-drop: 0.5

@@ -1,0 +1,13 @@
+name: SkullCustom
+version: '${project.version}'
+main: ru.ikote.skullcustom.SkullCustom
+api-version: '1.20'
+commands:
+  skull:
+    description: Give player head
+    usage: /<command> [OWNER NAME] [RECEIVER NAME]
+    permission: playerskull.cmd.skull
+permissions:
+  playerskull.cmd.skull:
+    default: op
+    description: permission for /skull
