@@ -2,3 +2,6 @@
 
 **Commands**
 - /skull [optional:FromPlayerHead\] [optional:Recipient\]
+
+**Links**
+- ([Spigot-MC](https://www.spigotmc.org/resources/headdrop.118490/))
